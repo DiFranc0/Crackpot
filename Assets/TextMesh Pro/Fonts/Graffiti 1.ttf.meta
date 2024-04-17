@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e72e7da927b55654dbfb1331c0a0367d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Graffiti
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 877533e647b14f44b8ff94e533d082e5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
